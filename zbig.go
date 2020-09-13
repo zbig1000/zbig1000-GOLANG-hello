@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	fmt.Println("ale pipa")
+	fmt.Println("ale pipa kwadratowa")
 }
